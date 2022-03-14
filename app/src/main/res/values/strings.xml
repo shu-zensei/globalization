@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">globalization</string>
+    <string name="ButtonMsg">Button</string>
+    <string name="Message">This is a Message</string>
+    <string name="Title">Welcome</string>
+</resources>

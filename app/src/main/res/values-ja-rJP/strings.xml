@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">国際化</string>
+    <string name="ButtonMsg">ボタン</string>
+    <string name="Message">メッセージ</string>
+    <string name="Title">ようこそ</string>
+</resources>

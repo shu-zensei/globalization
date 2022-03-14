@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">globalization</string>
+    <string name="ButtonMsg">按钮</string>
+    <string name="Message">这是一条信息！</string>
+    <string name="Title">欢迎</string>
+</resources>
